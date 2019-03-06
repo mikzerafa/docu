@@ -7,3 +7,5 @@ and doc  allows you to store (eg doc -wlc  !)
 ctrls shows the saved controls as codes not resolved to their value
 
 enjoy!
+
+p.s. You can clear ctrl.txt and documentation.txt
