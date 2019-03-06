@@ -1,0 +1,6 @@
+-w:Welcome
+-n:Docu
+-intro:-w to -n !
+-instructions:use dash for variables and you can make variables reference other variables or functions, live functions should be caps have fun!
+-t:Time: -T
+-goodnight:-intro -t

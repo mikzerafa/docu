@@ -1,0 +1,4 @@
+Domain: unity
+Time 06/03/19 8.09
+Time 06/03/19 8.11 Domain: unity Developed By: Mikhail Zerafa Action Fix Paper Position AR
+Time 06/03/19 8.12 Domain: unity Developed By: Mikhail Zerafa Action: Fix Paper position in AR
